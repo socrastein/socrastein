@@ -20,7 +20,7 @@ I'm currently working through [The Odin Project](https://www.theodinproject.com/
 
 I'm also currently working through the Responsive Web Design course on [freeCodeCamp](https://www.freecodecamp.org/). There's a lot of overlap with The Odin Project lessons, so I tend to go back and forth between them as it reinforces the concepts to see them presented in different ways.  
 
-Whenever I get into a topic I tend to get **really** into it, so the rest of my self-learning road map is fairly ambitious: 
+Whenever I get into a topic I tend to get **really** into it, so the rest of **my self-learning road map** is fairly ambitious: 
 
 #### [freeCodeCamp](https://www.freecodecamp.org/)
   - [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
