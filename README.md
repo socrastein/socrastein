@@ -12,6 +12,7 @@ I used what I learned about Python to code some simple games like Hang-Man and B
 
 I'm currently working through [The Odin Project](https://www.theodinproject.com/) full-stack JavaScript course, having completed the Foundations course in December 2022. You can see some of the projects I've completed thus far in my repositories. Here are links to their live GitHub pages:
 
+- #### [Minesweeper](https://socrastein.github.io/minesweeper/)
 - #### [Calculator](https://socrastein.github.io/calculator/)
 - #### [Tic-Tac-Toe](https://socrastein.github.io/tic-tac-toe/)
 - #### [Book Library](https://socrastein.github.io/book-library/)
