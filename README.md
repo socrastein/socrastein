@@ -15,6 +15,7 @@ I'm currently working through [The Odin Project](https://www.theodinproject.com/
 - #### [Lifting App](https://the-lifting-app.web.app/)
 - #### [Weight Plate Counter](https://socrastein.github.io/weightPlateCounter/)
 - #### [NSCA CPT Study Questions](https://socrastein.github.io/NSCAstudying/)
+- #### [Battleship](https://socrastein.github.io/battleship/)
 - #### [Weather App](https://socrastein.github.io/weather-app/)
 - #### [Minesweeper](https://socrastein.github.io/minesweeper/)
 - #### [Calculator](https://socrastein.github.io/calculator/)
