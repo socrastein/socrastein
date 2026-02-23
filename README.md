@@ -8,11 +8,15 @@ I've always been keenly interested in logic puzzles and problem-solving, which l
 
 🌱 Python is the first language I started with. I completed a 72-hour course on Udemy titled [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/) with Tim Buchalka. 
 
-I used what I learned about Python to code some simple games like Hang-Man and Black-Jack, put together some client-data calculators for my business and I also solved the first 20 math-coding problems on [Project Euler](https://projecteuler.net/).
+I used what I learned about Python to code some simple games like Hang-Man and Black-Jack, put together some client-data calculators for my business and I also solved 25 of the first math algorithm problems on [Project Euler](https://projecteuler.net/).
 
 I then worked through [The Odin Project](https://www.theodinproject.com/) full-stack JavaScript course. I think the way the Odin Project is put together, especially it's emphasis on incrementally more complex projects all along the way, is absolutely fantastic and I highly recommend it to anyone interested in learning web development. You can see some of the projects from that course in my portfolio.
 
+<br>
+
 - #### [My Coding Portfolio](https://socrastein.github.io/projectPortfolio/#/)
+
+<br>
 
 Here are some highly-recommended programming-related books I've read:
 
